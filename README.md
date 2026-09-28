@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Garden Guardian" width="100%"/>
+<img src="https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000070371/0e0533dc1591265ea23f4dc69991c3e6876472755066291a583501d7459bea51" alt="Garden Guardian" width="100%"/>
 
 # 🌱 Garden Guardian
 
